@@ -1,0 +1,21 @@
+# RAM memory dumps
+datasets/*
+*.raw
+*.mem
+*.dmp
+*.vmem
+
+# Python temporary files
+__pycache__/
+*.pyc
+.venv/
+
+# Environment variables and secrets
+.env
+
+# Temporary files
+*.tmp
+*.log
+
+# VS Code local settings
+.vscode/
