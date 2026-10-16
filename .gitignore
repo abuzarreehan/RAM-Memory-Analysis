@@ -19,3 +19,7 @@ __pycache__/
 
 # VS Code local settings
 .vscode/
+
+
+# Ignore research papers Excel file
+RAM_Memory_Analysis_20_Research_Papers.xlsx
